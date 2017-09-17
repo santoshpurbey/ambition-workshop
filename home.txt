@@ -1,2 +1,4 @@
 this is new file added 
 new line
+
+next line
